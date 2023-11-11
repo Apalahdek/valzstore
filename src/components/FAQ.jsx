@@ -15,7 +15,7 @@ const FAQData = [
   {
     question: "What's your refund policy?",
     answer:
-      "We offer a 30-day money-back guarantee on all our plans. If you're not satisfied with our product, simply contact our support team within 30 days of purchase for a full refund.",
+      "We offer a 7-day money-back guarantee on all our plans. If you're not satisfied with our product, simply contact our support team within 7 days of purchase for a full refund.",
   },
   {
     question: "How to get support for the product?",
