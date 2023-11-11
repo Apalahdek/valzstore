@@ -5,7 +5,7 @@ import { InvitationModal } from "./InvitationModal";
 import { CheckArrowIcon } from "../assets/icons/CheckArrowIcon";
 
 const pricingData = [
-  "Seamless integration",
+  "Seamless API's integration",
   "Real-time data visualization",
   "Advanced predictive analytics",
   "Collaborative environment",
