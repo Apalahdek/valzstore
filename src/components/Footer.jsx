@@ -37,19 +37,18 @@ export const Footer = () => {
                   <TailcastLogo />
                 </div>
                 <div className="text-white font-['Inter'] font-bold text-xl">
-                  Tailcast
+                  Valzstore
                 </div>
               </div>
               <p className="mb-10 mt-4 sm:w-[22rem] lg:w-[20rem] xl:w-[24rem] text-gray-400 leading-loose text-center lg:text-left mx-auto lg:mx-0">
-                Dashboard images were made using free Dark Admin dashboard that
-                you can find
+                If you want to register as a reseller please call this
                 <a
-                  href="https://bootstrapious.com/p/bootstrap-4-dark-admin"
+                  href="https://wa.me/6285701479245?text=Halo%20Saya%20Ingin%20Daftar%20Menjadi%20Reseler"
                   target="_blank"
                   className="text-gray-100 ml-1.5 "
                   aria-label="DarkAdmin"
                 >
-                  here.
+                  number.
                 </a>
               </p>
               <div className="w-36 mx-auto lg:mx-0">
@@ -67,7 +66,7 @@ export const Footer = () => {
                 </a>
                 <a
                   className="inline-block w-10  h-10 mr-2 p-2 bg-customDarkBg2 custom-border-gray  hover:bg-gray-700 rounded-xl"
-                  href="#"
+                  href="https://instagram.com/valzy_official_store?igshid=MzNlNGNkZWQ4Mg=="
                 >
                   <InstagramIcon />
                 </a>
