@@ -115,7 +115,7 @@ export const Navbar = () => {
                 target="_blank"
               >
                 <i class="cib-whatsapp"></i>
-                Source code
+                WhatsApp 
               </a>
             </div>
           </motion.div>
