@@ -10,6 +10,7 @@ const navbarLinks = [
   { label: "Pricing", href: "#pricing", ariaLabel: "Pricing" },
   { label: "Feedback", href: "#feedback", ariaLabel: "Feedback" },
   { label: "FAQ", href: "#FAQ", ariaLabel: "FAQ" },
+  { label: "Panel", href: "-", ariaLabel: "Panel" },
 ];
 
 export const Navbar = () => {
@@ -30,7 +31,7 @@ export const Navbar = () => {
                 <TailcastLogo />
               </div>
               <div className="text-white font-['Inter'] font-bold text-xl">
-                Tailcast
+                Valzstore
               </div>
             </div>
           </a>
@@ -64,12 +65,12 @@ export const Navbar = () => {
             <a
               className="text-white custom-border-gray rounded-xl
            bg-customDarkBg2 hover:bg-customDarkBg3  border-gray-700 pl-6 pr-8 pt-2 pb-2 text-sm flex"
-              href="https://github.com/matt765/Tidestream"
+              href="https://wa.me/6285701479245"
               target="_blank"
               aria-label="source code"
             >
-              <GithubIcon />
-              <span className="pt-px">Source code</span>
+             <i class="cib-whatsapp"></i>
+              <span className="pt-px">Whatsapp</span>
             </a>
           </div>
         </motion.div>
@@ -110,10 +111,10 @@ export const Navbar = () => {
               <a
                 className="text-white custom-border-gray rounded-xl
            bg-customDarkBg2 hover:bg-customDarkBg3  border-gray-700 pl-6 pr-8 pt-2 pb-2 text-sm flex"
-                href="https://github.com/matt765/Tidestream"
+                href="https://wa.me/6285701479245"
                 target="_blank"
               >
-                <GithubIcon />
+                <i class="cib-whatsapp"></i>
                 Source code
               </a>
             </div>
