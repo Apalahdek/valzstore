@@ -56,7 +56,7 @@ export const Features2 = () => (
               </li>
               <li className="mb-4 flex">
                 <CheckArrowIcon />
-                <span>Customizable notifications</span>
+                <span>Customizable Software</span>
               </li>
             </ul>
           </div>
