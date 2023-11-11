@@ -40,7 +40,7 @@ export const Pricing = () => {
               </h2>
               <p className="mb-6 text-customGrayText">
                 Select the plan that suits your needs and benefit from our
-                analytics tools.
+                panel.
               </p>
               <label className="mx-auto bg-customDarkBg3 relative flex justify-between items-center group text-xl w-44 h-12 rounded-lg pr-36 pl-1 cursor-pointer">
                 <input
@@ -66,11 +66,11 @@ export const Pricing = () => {
               <div className="w-[350px] sm:w-[380px] lg:w-1/3 px-4 mb-8 lg:mb-0">
                 <div className="p-8 bg-customDarkBg3 rounded-3xl">
                   <h4 className="mb-2 text-xl font-bold font-heading text-white text-left">
-                    Beginner
+                    Panel Ram 1-3
                   </h4>
                   <div className="flex justify-start items-end">
                     <div className="text-4xl sm:text-5xl font-bold text-white text-left mt-4 mr-2">
-                      $0
+                      FREE
                     </div>
                     <div className="text-gray-500">
                       {isMonthly ? "/ month" : "/ year"}
@@ -78,7 +78,7 @@ export const Pricing = () => {
                   </div>
 
                   <p className="mt-4 mb-6 2xl:mb-10 text-gray-500 leading-loose text-left">
-                    The perfect way to get started and get used to our tools.
+                    The perfect way to beginer.
                   </p>
                   <ul className="mb-2 2xl:mb-6 text-white">
                     {pricingData.map((text, index) => (
@@ -99,11 +99,11 @@ export const Pricing = () => {
               <div className="w-[350px] sm:w-[380px] lg:w-1/3 px-4 mb-8 lg:mb-0">
                 <div className="px-8 py-8 bg-customDarkBg3 rounded-3xl">
                   <h4 className="mb-2 2xl:mb-4 text-2xl font-bold font-heading text-white text-left">
-                    Standard
+                    Panel Ram 4-9
                   </h4>
                   <div className="flex justify-start items-end">
                     <div className="text-4xl sm:text-5xl font-bold text-white text-left mt-4 mr-2">
-                      {isMonthly ? "$19" : "$180"}
+                      {isMonthly ? "7.000" : "18.000"}
                     </div>
                     <div className="text-gray-500">
                       {isMonthly ? "/ month" : "/ year"}
@@ -131,11 +131,11 @@ export const Pricing = () => {
               <div className="w-[350px] sm:w-[380px] lg:w-1/3 px-4 mb-8 lg:mb-0">
                 <div className="p-8 bg-customDarkBg3 rounded-3xl">
                   <h4 className="mb-2 text-xl font-bold font-heading text-white text-left">
-                    Premium
+                    Panel Unli & Admin 
                   </h4>
                   <div className="flex justify-start items-end">
                     <div className="text-4xl sm:text-5xl font-bold text-white text-left mt-4 mr-2">
-                      {isMonthly ? "$36" : "$390"}
+                      {isMonthly ? "10.000" : "25.000"}
                     </div>
                     <div className="text-gray-500">
                       {isMonthly ? "/ month" : "/ year"}
