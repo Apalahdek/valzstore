@@ -35,7 +35,7 @@ export const FeaturesDiagonal = () => {
               Accelerate Your Success
             </span>
             <h2 className="mt-10 mb-8 text-4xl lg:text-5xl custom-block-big-title">
-              Build &amp; Launch without problems
+              Build &amp; Launch Your projects
             </h2>
             <p className="mb-16 text-customGrayText leading-loose">
               Our platform enables you to launch your data-driven projects with
