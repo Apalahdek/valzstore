@@ -28,11 +28,11 @@ export const Hero = () => {
           transition={{ duration: 0.5, delay: 0.05 }}
         >
           <div className="text-5xl sm:text-6xl lg:text-7xl xl:text-7xl font-bold tracking-wide  text-white  px-8 sm:px-8 md:px-20 lg:px-4">
-            <span className="inline md:hidden">Analytics</span>
+            <span className="inline md:hidden">Valzstore</span>
             <span className="hidden md:inline">Analytic tools suite</span>
           </div>
           <div className="mt-2 sm:mt-2 text-4xl sm:text-6xl lg:text-7xl xl:text-7xl font-bold tracking-wide  text-white  px-8 sm:px-20 md:px-24 lg:px-24">
-            for developers
+            trusted hosting shop
           </div>
         </motion.div>
         <motion.div
@@ -61,7 +61,7 @@ export const Hero = () => {
               className="w-64 sm:w-52 h-12 rounded-xl font-bold text-white border border-solid  flex justify-center items-center cursor-pointer bg-customDarkBg2 hover:bg-customDarkBg3 border-customPrimary transition"
               onClick={() => setIsModalOpen(true)}
             >
-              Live demo
+              Contact
             </div>
           </div>
         </motion.div>
