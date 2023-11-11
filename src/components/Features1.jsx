@@ -33,7 +33,7 @@ export const Features1 = () => {
               <ul className="mb-6 text-white">
                 <li className="mb-4 flex">
                   <CheckArrowIcon />
-                  <span>Real-time data visualization</span>
+                  <span>Online 24/7</span>
                 </li>
                 <li className="mb-4 flex">
                   <CheckArrowIcon />
@@ -42,6 +42,10 @@ export const Features1 = () => {
                 <li className="mb-4 flex">
                   <CheckArrowIcon />
                   <span>Seamless integration with APIs</span>
+                </li>
+               <li className="mb-4 flex">
+                  <CheckArrowIcon />
+                  <span>Multi Software</span>
                 </li>
               </ul>
             </div>
